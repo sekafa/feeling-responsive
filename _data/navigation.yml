@@ -1,12 +1,12 @@
-- title: Start
+- title: Beranda
   url: "/"
   side: left
 
-- title: Getting Started
+#- title: Getting Started
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Profil"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Lembaga Pendidikan"
   url: "/headers/"
   side: left
   dropdown:
@@ -59,7 +59,7 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: Berita
   url: "/blog/"
   side: left
   dropdown:
@@ -70,6 +70,6 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Kontak"
   url: "/contact/"
   side: right
